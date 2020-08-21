@@ -1,4 +1,4 @@
-#Coursera_Blockchain_Specialization
+# Coursera Blockchain Specialization
 
 This is the content and projects related to the Blockchain Specialization taught by University at Buffalo and provided by Coursera.
 
